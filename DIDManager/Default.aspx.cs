@@ -12,6 +12,7 @@ namespace DIDManager
         protected void Page_Load(object sender, EventArgs e)
         {
             string temp = "";
+            temp = "temp";
 
         }
 
